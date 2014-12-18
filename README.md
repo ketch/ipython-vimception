@@ -54,30 +54,30 @@ It's all very rough right now, I'm working on it, so hang tight.
 TODO
 ----
 
- [ ] suppress switching into command mode when moving cursor past the top/bottom
-     lines (using new methods Jonathan added)
+- [ ] suppress switching into command mode when moving cursor past the top/bottom
+      lines (using new methods Jonathan added)
 
- [ ] make the multi-level escaping optional (i.e. allow only `ctrl-m` to take
-     you to command mode)
+- [ ] make the multi-level escaping optional (i.e. allow only `ctrl-m` to take
+      you to command mode)
  
- [ ] look up what else I had in my todo a few weeks ago
+- [ ] look up what else I had in my todo a few weeks ago
 
- [ ] add logic to %vimception to write vimception.json to profile_dir/static/custom
-	- investigate json config in general (Matthias implemented this at some point)
+- [ ] add logic to %vimception to write vimception.json to profile_dir/static/custom
+      - investigate json config in general (Matthias implemented this at some point)
 
-[ ] multi-level undo
+- [ ] multi-level undo
 
-[ ] unalias v - and use nb-cccp if it's loaded 
+- [ ] unalias v - and use nb-cccp if it's loaded 
 
-[ ] turn it into an nbextension (no python side)
+- [ ] turn it into an nbextension (no python side)
 
-[ ] Ctrl-n and Ctrl-p should work as local completion (like in vim)
+- [ ] Ctrl-n and Ctrl-p should work as local completion (like in vim)
 
-[ ] on click, disable the vim fire
+- [ ] on click, disable the vim fire
 
-[ ] the cell that vimception is started from gets FUBARed  :\ or actuall just
-    entering edit mode doesn't work?
+- [ ] the cell that vimception is started from gets FUBARed  :\ or actuall just
+      entering edit mode doesn't work?
 
-[ ] allow going between cells independent of which character you're on
+- [ ] allow going between cells independent of which character you're on
 
-[ ] shift-J on the last line should join cell below
+- [ ] shift-J on the last line should join cell below
